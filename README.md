@@ -7,3 +7,5 @@ disusun oleh
 
 Menganalisis dan menguji dua algoritma dengan pendekatan iteratif dan rekursif untuk menghitung hasil kuadrat dari suatu matriks persegi berukuran n x n. Dengan menganalisis kompleksitas waktu dan menguji running time, kami akan menentukan pendekatan algoritma manakah yang lebih efektif.
 Hal ini kami dokumentasikan melalui laporan analisis berbentuk PDF, dan framework Streamlit yang dapat membandingkan kedua algoritma pada matriks dengan ukuran n tertentu.
+
+Aplikasi streamlit dapat diakses melalui https://g6hbsappjyd5tbyeb5fdtjl.streamlit.app/
