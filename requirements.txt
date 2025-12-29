@@ -1,4 +1,4 @@
 streamlit
 numpy
 time
-matplotlib.pyplot
+matplotlib
